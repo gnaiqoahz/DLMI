@@ -1,4 +1,4 @@
-# DLMI
+# DLMI (Deep Learning for Medical Imaging)
 
 ## Attention Based U-Net for MRI Reconstruction
 
